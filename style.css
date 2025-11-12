@@ -11,3 +11,11 @@ nav li{
     list-style: none;
     padding: 0 23px;
 }
+.yellow{
+    background-color: yellow;
+    color: rgb(1, 1, 1);
+}
+.red{
+    background-color: red;
+    color: white;
+}
