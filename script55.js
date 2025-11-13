@@ -17,7 +17,7 @@ console.log(p,p1)
 p.then((value)=>{
     console.log(value)
 },(error)=>{
-    console.log("error in p1")
+    console.log("error in p")
 })
 p1.then((value)=>{
     console.log(value)
